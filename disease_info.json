@@ -1,0 +1,357 @@
+{
+    "Tomato__septoria_leaf_spot": {
+      "cause": "Fungal infection caused by Septoria species.",
+      "treatment": "Remove infected leaves, avoid overhead irrigation, apply fungicide."
+    },
+    "Tea__anthracnose": {
+      "cause": "Fungal disease caused by Colletotrichum species.",
+      "treatment": "Prune infected parts and apply fungicide."
+    },
+    "Rice__hispa": {
+      "cause": "Insect pest infestation (rice hispa beetle).",
+      "treatment": "Use recommended insecticides and maintain field sanitation."
+    },
+    "Soybean__diabrotica_speciosa": {
+      "cause": "Insect pest damage (cucumber beetle).",
+      "treatment": "Apply insect control measures and crop rotation."
+    },
+    "Tomato__healthy": {
+      "cause": "Healthy plant.",
+      "treatment": "No treatment required."
+    },
+    "Gauva__diseased": {
+      "cause": "Fungal or bacterial infection.",
+      "treatment": "Prune affected parts and apply suitable pesticide."
+    },
+    "Wheat__yellow_rust": {
+      "cause": "Fungal disease caused by Puccinia striiformis.",
+      "treatment": "Use resistant varieties and apply fungicides."
+    },
+    "Soybean__downy_mildew": {
+      "cause": "Fungal disease caused by Peronospora species.",
+      "treatment": "Use disease-free seeds and fungicides."
+    },
+    "Pomegranate__diseased": {
+      "cause": "Fungal or bacterial infection.",
+      "treatment": "Remove infected fruits and apply fungicide."
+    },
+    "Apple__rust": {
+      "cause": "Fungal disease caused by Gymnosporangium species.",
+      "treatment": "Apply fungicide and remove alternate hosts."
+    },
+    "Tea__algal_leaf": {
+      "cause": "Algal infection caused by Cephaleuros species.",
+      "treatment": "Improve air circulation and apply copper fungicide."
+    },
+    "Pomegranate__healthy": {
+      "cause": "Healthy plant.",
+      "treatment": "No treatment required."
+    },
+    "Tomato__early_blight": {
+      "cause": "Fungal disease caused by Alternaria solani.",
+      "treatment": "Apply fungicide and rotate crops."
+    },
+    "Peach__bacterial_spot": {
+      "cause": "Bacterial infection caused by Xanthomonas species.",
+      "treatment": "Apply copper-based bactericides."
+    },
+    "Soybean__healthy": {
+      "cause": "Healthy plant.",
+      "treatment": "No treatment required."
+    },
+    "Potato__healthy": {
+      "cause": "Healthy plant.",
+      "treatment": "No treatment required."
+    },
+    "Cherry__healthy": {
+      "cause": "Healthy plant.",
+      "treatment": "No treatment required."
+    },
+    "Apple__healthy": {
+      "cause": "Healthy plant.",
+      "treatment": "No treatment required."
+    },
+    "Rice__neck_blast": {
+      "cause": "Fungal disease caused by Magnaporthe oryzae.",
+      "treatment": "Use resistant varieties and fungicides."
+    },
+    "Wheat__septoria": {
+      "cause": "Fungal disease caused by Septoria species.",
+      "treatment": "Apply fungicide and crop rotation."
+    },
+    "Jamun__healthy": {
+      "cause": "Healthy plant.",
+      "treatment": "No treatment required."
+    },
+    "Strawberry___leaf_scorch": {
+      "cause": "Fungal disease.",
+      "treatment": "Remove infected leaves and apply fungicide."
+    },
+    "Coffee__rust": {
+      "cause": "Fungal disease caused by Hemileia vastatrix.",
+      "treatment": "Apply fungicide and proper shade management."
+    },
+    "Mango__healthy": {
+      "cause": "Healthy plant.",
+      "treatment": "No treatment required."
+    },
+    "Mango__diseased": {
+      "cause": "Fungal or bacterial infection.",
+      "treatment": "Prune affected areas and apply fungicide."
+    },
+    "Apple__black_rot": {
+      "cause": "Fungal disease caused by Botryosphaeria species.",
+      "treatment": "Remove infected fruits and apply fungicide."
+    },
+    "Soybean__powdery_mildew": {
+      "cause": "Fungal disease.",
+      "treatment": "Apply sulfur-based fungicides."
+    },
+    "Lemon__healthy": {
+      "cause": "Healthy plant.",
+      "treatment": "No treatment required."
+    },
+    "Pepper_bell__healthy": {
+      "cause": "Healthy plant.",
+      "treatment": "No treatment required."
+    },
+    "Strawberry__healthy": {
+      "cause": "Healthy plant.",
+      "treatment": "No treatment required."
+    },
+    "Cassava__healthy": {
+      "cause": "Healthy plant.",
+      "treatment": "No treatment required."
+    },
+    "Corn__healthy": {
+      "cause": "Healthy plant.",
+      "treatment": "No treatment required."
+    },
+    "Jamun__diseased": {
+      "cause": "Fungal infection.",
+      "treatment": "Apply fungicides and prune infected parts."
+    },
+    "Corn__common_rust": {
+      "cause": "Fungal disease caused by Puccinia sorghi.",
+      "treatment": "Use resistant hybrids and fungicides."
+    },
+    "Tomato__yellow_leaf_curl_virus": {
+      "cause": "Viral infection transmitted by whiteflies.",
+      "treatment": "Control insect vectors and remove infected plants."
+    },
+    "Coffee__cercospora_leaf_spot": {
+      "cause": "Fungal disease caused by Cercospora species.",
+      "treatment": "Apply fungicide and proper fertilization."
+    },
+    "Grape__black_measles": {
+      "cause": "Fungal trunk disease.",
+      "treatment": "Prune infected wood and apply fungicide."
+    },
+    "Rice__healthy": {
+      "cause": "Healthy plant.",
+      "treatment": "No treatment required."
+    },
+    "Tea__healthy": {
+      "cause": "Healthy plant.",
+      "treatment": "No treatment required."
+    },
+  "Soybean__caterpillar": {
+    "cause": "Insect pest infestation (caterpillars feeding on leaves).",
+    "treatment": "Use biological or chemical insecticides and field monitoring."
+  },
+  "Grape__leaf_blight_(isariopsis_leaf_spot)": {
+    "cause": "Fungal disease caused by Isariopsis species.",
+    "treatment": "Apply fungicides and remove infected leaves."
+  },
+  "Coffee__red_spider_mite": {
+    "cause": "Pest infestation by red spider mites.",
+    "treatment": "Use miticides and increase field humidity."
+  },
+  "Soybean__rust": {
+    "cause": "Fungal disease caused by Phakopsora pachyrhizi.",
+    "treatment": "Apply fungicides and use resistant varieties."
+  },
+  "Tomato__target_spot": {
+    "cause": "Fungal disease caused by Corynespora cassiicola.",
+    "treatment": "Apply fungicides and remove infected leaves."
+  },
+  "Tomato__bacterial_spot": {
+    "cause": "Bacterial infection caused by Xanthomonas species.",
+    "treatment": "Apply copper-based bactericides and remove infected plants."
+  },
+  "Sugarcane__bacterial_blight": {
+    "cause": "Bacterial infection caused by Xanthomonas albilineans.",
+    "treatment": "Use disease-free planting material and crop sanitation."
+  },
+  "Tea__brown_blight": {
+    "cause": "Fungal disease caused by Colletotrichum species.",
+    "treatment": "Apply fungicides and prune affected areas."
+  },
+  "Sugarcane__healthy": {
+    "cause": "Healthy plant.",
+    "treatment": "No treatment required."
+  },
+  "Cucumber__healthy": {
+    "cause": "Healthy plant.",
+    "treatment": "No treatment required."
+  },
+  "Chili__whitefly": {
+    "cause": "Whitefly pest infestation.",
+    "treatment": "Use insecticides and sticky traps."
+  },
+  "Cucumber__diseased": {
+    "cause": "Fungal or bacterial infection.",
+    "treatment": "Apply suitable fungicides and improve field hygiene."
+  },
+  "Soybean__bacterial_blight": {
+    "cause": "Bacterial disease caused by Pseudomonas species.",
+    "treatment": "Use disease-free seeds and apply bactericides."
+  },
+  "Potato__early_blight": {
+    "cause": "Fungal disease caused by Alternaria solani.",
+    "treatment": "Apply fungicides and rotate crops."
+  },
+  "Chili__healthy": {
+    "cause": "Healthy plant.",
+    "treatment": "No treatment required."
+  },
+  "Tea__red_leaf_spot": {
+    "cause": "Fungal disease.",
+    "treatment": "Apply fungicides and remove infected leaves."
+  },
+  "Corn__gray_leaf_spot": {
+    "cause": "Fungal disease caused by Cercospora species.",
+    "treatment": "Use resistant hybrids and fungicides."
+  },
+  "Grape__black_rot": {
+    "cause": "Fungal disease caused by Guignardia bidwellii.",
+    "treatment": "Apply fungicides and remove infected fruit."
+  },
+  "Potato__late_blight": {
+    "cause": "Fungal-like disease caused by Phytophthora infestans.",
+    "treatment": "Apply fungicides and use resistant varieties."
+  },
+  "Sugarcane__red_stripe": {
+    "cause": "Bacterial infection.",
+    "treatment": "Use healthy planting material and sanitation."
+  },
+  "Cassava__mosaic_disease": {
+    "cause": "Viral infection transmitted by whiteflies.",
+    "treatment": "Remove infected plants and control vectors."
+  },
+  "Cassava__green_mottle": {
+    "cause": "Viral infection.",
+    "treatment": "Use disease-free cuttings and remove infected plants."
+  },
+  "Tomato__late_blight": {
+    "cause": "Fungal-like pathogen Phytophthora infestans.",
+    "treatment": "Apply fungicides and improve drainage."
+  },
+  "Pepper_bell__bacterial_spot": {
+    "cause": "Bacterial infection caused by Xanthomonas species.",
+    "treatment": "Apply copper-based bactericides."
+  },
+  "Chili__leaf spot": {
+    "cause": "Fungal or bacterial leaf infection.",
+    "treatment": "Apply appropriate fungicides or bactericides."
+  },
+  "Rice__brown_spot": {
+    "cause": "Fungal disease caused by Bipolaris oryzae.",
+    "treatment": "Use fungicides and balanced fertilization."
+  },
+  "Lemon__diseased": {
+    "cause": "Fungal or bacterial infection.",
+    "treatment": "Prune affected branches and apply fungicides."
+  },
+  "Cassava__brown_streak_disease": {
+    "cause": "Viral disease.",
+    "treatment": "Use disease-free planting material and remove infected plants."
+  },
+  "Wheat__brown_rust": {
+    "cause": "Fungal disease caused by Puccinia triticina.",
+    "treatment": "Apply fungicides and grow resistant varieties."
+  },
+  "Tomato__spider_mites_(two_spotted_spider_mite)": {
+    "cause": "Spider mite infestation.",
+    "treatment": "Use miticides and maintain adequate irrigation."
+  },
+  "Sugarcane__rust": {
+    "cause": "Fungal disease.",
+    "treatment": "Apply fungicides and resistant varieties."
+  },
+  "Coffee__healthy": {
+    "cause": "Healthy plant.",
+    "treatment": "No treatment required."
+  },
+  "Tomato__leaf_mold": {
+    "cause": "Fungal disease caused by Passalora fulva.",
+    "treatment": "Improve ventilation and apply fungicides."
+  },
+  "Cherry__powdery_mildew": {
+    "cause": "Fungal disease.",
+    "treatment": "Apply sulfur-based fungicides."
+  },
+  "Apple__scab": {
+    "cause": "Fungal disease caused by Venturia inaequalis.",
+    "treatment": "Apply fungicides and remove fallen leaves."
+  },
+  "Soybean__southern_blight": {
+    "cause": "Fungal disease caused by Sclerotium rolfsii.",
+    "treatment": "Crop rotation and fungicide application."
+  },
+  "Rice__leaf_blast": {
+    "cause": "Fungal disease caused by Magnaporthe oryzae.",
+    "treatment": "Apply fungicides and resistant varieties."
+  },
+  "Corn__northern_leaf_blight": {
+    "cause": "Fungal disease caused by Exserohilum turcicum.",
+    "treatment": "Use resistant hybrids and fungicides."
+  },
+  "Gauva__healthy": {
+    "cause": "Healthy plant.",
+    "treatment": "No treatment required."
+  },
+  "Peach__healthy": {
+    "cause": "Healthy plant.",
+    "treatment": "No treatment required."
+  },
+  "Soybean__mosaic_virus": {
+    "cause": "Viral infection.",
+    "treatment": "Use resistant varieties and remove infected plants."
+  },
+  "Chili__yellowish": {
+    "cause": "Nutrient deficiency or viral infection.",
+    "treatment": "Apply balanced fertilizers and control pests."
+  },
+  "Cassava__bacterial_blight": {
+    "cause": "Bacterial disease caused by Xanthomonas species.",
+    "treatment": "Use clean planting material and sanitation."
+  },
+  "Tea__bird_eye_spot": {
+    "cause": "Fungal disease.",
+    "treatment": "Apply fungicides and remove infected leaves."
+  },
+  "Wheat__healthy": {
+    "cause": "Healthy plant.",
+    "treatment": "No treatment required."
+  },
+  "Sugarcane__red_rot": {
+    "cause": "Fungal disease caused by Colletotrichum falcatum.",
+    "treatment": "Use resistant varieties and fungicides."
+  },
+  "Chili__leaf curl": {
+    "cause": "Viral infection transmitted by insects.",
+    "treatment": "Control insect vectors and remove infected plants."
+  },
+  "Grape__healthy": {
+    "cause": "Healthy plant.",
+    "treatment": "No treatment required."
+  },
+  "Tomato__mosaic_virus": {
+    "cause": "Viral infection.",
+    "treatment": "Remove infected plants and disinfect tools."
+  }
+}
+
+  
+  
